@@ -1,0 +1,15 @@
+{
+  "collection": true,
+  "fields": [
+    {
+      "title": "Titel",
+      "name": "title",
+      "type": "string"
+    },
+    {
+      "title": "Text",
+      "name": "body",
+      "type": "text"
+    }
+  ]
+}
